@@ -14,7 +14,7 @@
 
 ## Example - (User Already Exists in Database)
 
-## Register:
+### Register:
 ### POST - https://user-authentication-nedw.onrender.com/api/auth/register
 ```json
 {
@@ -30,7 +30,7 @@
 }
 ```
 
-## Login:
+### Login:
 ### POST - https://user-authentication-nedw.onrender.com/api/auth/login
 ```json
 {
@@ -46,7 +46,7 @@
 }
 ```
 
-## User-Profile:
+### User-Profile:
 ### GET - https://user-authentication-nedw.onrender.com/api/user/profile
 ### Put token in Headers in Postman
 
