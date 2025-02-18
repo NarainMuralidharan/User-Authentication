@@ -5,11 +5,11 @@
 
 ## API
 
-## Auth Routes:
+### Auth Routes:
 ### POST - /api/auth/register
 ### POST - /api/auth/login 
 
-## User Routes:
+### User Routes:
 ### GET - /api/user/profile
 
 ## Example - (User Already Exists in Database)
